@@ -1,0 +1,118 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="48" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyClassHasNoInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="60">
+            <item index="0" class="java.lang.String" itemvalue="traitlets" />
+            <item index="1" class="java.lang.String" itemvalue="html5lib" />
+            <item index="2" class="java.lang.String" itemvalue="Flask-JWT" />
+            <item index="3" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="lml" />
+            <item index="6" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="7" class="java.lang.String" itemvalue="pycparser" />
+            <item index="8" class="java.lang.String" itemvalue="Flask-Markdown" />
+            <item index="9" class="java.lang.String" itemvalue="javascripthon" />
+            <item index="10" class="java.lang.String" itemvalue="redis" />
+            <item index="11" class="java.lang.String" itemvalue="ipython-genutils" />
+            <item index="12" class="java.lang.String" itemvalue="mongoengine" />
+            <item index="13" class="java.lang.String" itemvalue="Flask-Cache" />
+            <item index="14" class="java.lang.String" itemvalue="Pygments" />
+            <item index="15" class="java.lang.String" itemvalue="bleach" />
+            <item index="16" class="java.lang.String" itemvalue="Markdown" />
+            <item index="17" class="java.lang.String" itemvalue="win-unicode-console" />
+            <item index="18" class="java.lang.String" itemvalue="Flask-Script" />
+            <item index="19" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="20" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="21" class="java.lang.String" itemvalue="cryptography" />
+            <item index="22" class="java.lang.String" itemvalue="click" />
+            <item index="23" class="java.lang.String" itemvalue="jedi" />
+            <item index="24" class="java.lang.String" itemvalue="backcall" />
+            <item index="25" class="java.lang.String" itemvalue="dukpy" />
+            <item index="26" class="java.lang.String" itemvalue="Mako" />
+            <item index="27" class="java.lang.String" itemvalue="idna" />
+            <item index="28" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="29" class="java.lang.String" itemvalue="decorator" />
+            <item index="30" class="java.lang.String" itemvalue="alembic" />
+            <item index="31" class="java.lang.String" itemvalue="flask-mongoengine" />
+            <item index="32" class="java.lang.String" itemvalue="pyecharts-jupyter-installer" />
+            <item index="33" class="java.lang.String" itemvalue="jwt" />
+            <item index="34" class="java.lang.String" itemvalue="cffi" />
+            <item index="35" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="36" class="java.lang.String" itemvalue="python-editor" />
+            <item index="37" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="38" class="java.lang.String" itemvalue="simplegeneric" />
+            <item index="39" class="java.lang.String" itemvalue="Flask-Login" />
+            <item index="40" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="41" class="java.lang.String" itemvalue="pyecharts" />
+            <item index="42" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="43" class="java.lang.String" itemvalue="Flask" />
+            <item index="44" class="java.lang.String" itemvalue="blinker" />
+            <item index="45" class="java.lang.String" itemvalue="pymongo" />
+            <item index="46" class="java.lang.String" itemvalue="six" />
+            <item index="47" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="48" class="java.lang.String" itemvalue="Flask-HTTPAuth" />
+            <item index="49" class="java.lang.String" itemvalue="parso" />
+            <item index="50" class="java.lang.String" itemvalue="pyecharts-javascripthon" />
+            <item index="51" class="java.lang.String" itemvalue="jupyter-echarts-pypkg" />
+            <item index="52" class="java.lang.String" itemvalue="WTForms" />
+            <item index="53" class="java.lang.String" itemvalue="colorama" />
+            <item index="54" class="java.lang.String" itemvalue="Flask-Mail" />
+            <item index="55" class="java.lang.String" itemvalue="Flask-Migrate" />
+            <item index="56" class="java.lang.String" itemvalue="future" />
+            <item index="57" class="java.lang.String" itemvalue="macropy3" />
+            <item index="58" class="java.lang.String" itemvalue="webencodings" />
+            <item index="59" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flask_mongoengine.MongoEngine.StringField" />
+          <option value="flask_mongoengine.MongoEngine.EmbeddedDocumentField" />
+          <option value="flask_mongoengine.MongoEngine.EmbeddedDocument" />
+          <option value="flask_mongoengine.MongoEngine.IntField" />
+          <option value="flask_mongoengine.MongoEngine.ListField" />
+          <option value="flask_mongoengine.MongoEngine.ReferenceField" />
+          <option value="manage.ObjectId" />
+          <option value="dict.userName" />
+          <option value="bs4.element.PageElement.text" />
+          <option value="app.api.handler.jobException.JobException.status" />
+          <option value="app.api.handler.jobException.JobException.information" />
+          <option value="property.setter" />
+          <option value="super.save" />
+          <option value="dict.__add__" />
+          <option value="app.models.message.getUniqueI" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
